@@ -370,10 +370,12 @@ GROUP BY o.total_sale;
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
 ## Author - Fatima Zehra
+-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Fatima-Zehra-DA)
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/your-linkedin-username)
 
-- GitHub: [github.com/Fatima-Zehra-DA](...)
-- - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/fatima-zehra-308b85358)
-- LinkedIn: [linkedin.com/in/...](...)
+- **GitHub**: [](https://github.com/Fatima-Zehra-DA)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/fatima-zehra-308b85358)
+
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
