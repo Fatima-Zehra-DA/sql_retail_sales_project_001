@@ -348,13 +348,16 @@ GROUP BY o.total_sale;
 - The business generated $911720 in total revenue during the analysis period.
 - Electronics emerged as the highest revenue-generating category.
 - December 2023 recorded the highest monthly revenue.
+
 **Customer Insights:**
 - The dataset included 155 unique customers.
 - The 46-55 age group contributed the highest spending.
 - Female customers generated slightly higher revenue than male customers.
+
 **Profitability Insights:**
 - clothing was the most profitable category.
 - The top 10 customers contributed approximately 23.52% of total sales.
+  
 **Growth Insights:**
 - Calculated the percentage change in monthly revenue compared to the previous month to identify sales trends and periods of growth or decline
 - Cumulative revenue analysis indicated steady business expansion over time.
