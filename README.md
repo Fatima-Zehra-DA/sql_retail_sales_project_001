@@ -417,7 +417,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 ## Author - Fatima Zehra
 - GitHub: https://github.com/Fatima-Zehra-DA
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/fatima-zehra-308b85358/
+- LinkedIn: https://www.linkedin.com/in/https://linkedin.com/in/fatima-zehra-308b85358/
 
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
