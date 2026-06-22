@@ -1,6 +1,14 @@
-# Retail Sales Analysis SQL Project
+# Retail Sales Analysis | SQL & Power BI
 
 ## Project Overview
+
+## Project Overview
+
+**Project Title:** Retail Sales Analysis
+**Level:** Beginner to Intermediate
+**Tools Used:** PostgreSQL, SQL, Power BI, Excel
+**Database:** `p1_retail_db`
+
 
 **Project Title**: Retail Sales Analysis  
 **Level**: Beginner  
@@ -13,15 +21,21 @@ Imagine you are a Data Analyst working for a retail company that wants to better
 
 ## Business Problem
 **The company lacks visibility into:**
-•	High-performing product categories 
-•	Customer purchasing behavior 
-•	Revenue trends over time 
-•	Most valuable customers 
-•	Category profitability
+- High-performing product categories 
+- Customer purchasing behavior 
+- Revenue trends over time 
+- Most valuable customers 
+- Category profitability
 
 ## Project Objective
 The objective of this project is to analyze retail sales transaction data using SQL to identify sales trends, customer purchasing behavior, product category performance, and revenue opportunities. The insights generated can help retail businesses make informed decisions regarding marketing strategies, customer targeting, inventory planning, and business growth.
 
+## Tools & Technologies:
+- PostgreSQL
+- SQL
+- Power BI
+- Excel
+- GitHub
 
 ## Dataset Information
 
@@ -340,9 +354,46 @@ CROSS JOIN overall_sale AS o
 GROUP BY o.total_sale;
 ```
 
+## Power BI Dashboard
 
+To complement the SQL analysis, an interactive Power BI dashboard was developed to visualize sales performance, customer behavior, category performance, and revenue trends.
 
-## Key Findings
+### Dashboard Features
+
+- KPI Tracking
+
+  - Total Revenue
+  - Total Profit
+  - Profit Margin %
+  - Total Orders
+  - Total Customers
+  - Average Order Value
+
+- Revenue Trend Analysis
+
+- Monthly Growth Analysis
+
+- Top 10 Customer Analysis
+
+- Category Performance Analysis
+
+- Customer Demographic Analysis
+
+- Business Insights & Recommendations
+
+### Dashboard Preview
+
+![Retail Sales Dashboard](PowerBI/dashboard_preview.png)
+
+## Dashboard Insights (2023)
+
+- Total revenue reached 459K with a profit of 216K.
+- Electronics and Clothing generated 70.37% of total revenue, making them the primary revenue drivers.
+- The top 10 customers contributed 37.90% of total revenue.
+- The 26–35 age group generated the highest revenue among customer segments.
+- Revenue growth peaked at 138.98% in September.
+
+## Key Findings (2022–2023)
 
 **Revenue Insights:**
 - The business generated $911720 in total revenue during the analysis period.
@@ -362,19 +413,20 @@ GROUP BY o.total_sale;
 - Calculated the percentage change in monthly revenue compared to the previous month to identify sales trends and periods of growth or decline
 - Cumulative revenue analysis indicated steady business expansion over time.
 
-
 ## Business Recommendations
-**Customer Concentration Analysis:** The top 10 customers accounted for approximately 23.52% of total revenue, indicating the level of sales dependency on high-value customers. This insight can help assess customer concentration risk and inform customer retention strategies.
-**Revenue Trend Analysis:** Evaluated month-over-month revenue growth to identify seasonal patterns, growth opportunities, and periods of declining sales performance.
-**Customer Retention Strategy:** The top 10 customers contributed 23.52% of total revenue, indicating the importance of retaining high-value customers through loyalty programs and personalized offers.
 
+- Focus marketing and inventory investments on Electronics and Clothing, as they account for the majority of revenue.
+- Strengthen customer retention strategies for high-value customers, who contribute a significant share of total sales.
+- Target the 26–35 customer segment with personalized campaigns and promotions.
+- Monitor monthly revenue trends to identify seasonal opportunities and optimize inventory planning.
+- Continue tracking category-level profitability to support product portfolio decisions.
 
 ## Conclusion
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
 ## Author - Fatima Zehra
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Fatima-Zehra-DA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/fatima-zehra-308b85358/)
+- GitHub: https://github.com/Fatima-Zehra-DA
+- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/fatima-zehra-308b85358/
 
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
