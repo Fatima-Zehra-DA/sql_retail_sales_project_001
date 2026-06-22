@@ -2,8 +2,6 @@
 
 ## Project Overview
 
-## Project Overview
-
 **Project Title:** Retail Sales Analysis
 **Level:** Beginner to Intermediate
 **Tools Used:** PostgreSQL, SQL, Power BI, Excel
